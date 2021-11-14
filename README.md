@@ -64,7 +64,7 @@ you will be able to see resut in terminal as well as a new file with .vcd extent
 ![image](https://user-images.githubusercontent.com/70074468/141676409-7e4d4e78-4093-4d26-bc56-502ba3902ca7.png)
 
 **STEP-7** :-for generating waveforms we are using gtkwave EDA Tool for waveform representation. use the following command for opening .vcd file in gtkwave
-![image](https://user-images.githubusercontent.com/70074468/141676469-b7dd5ab9-de9b-4cd1-9755-e2ee0e5df529.png)
+![image](https://user-images.githubusercontent.com/70074468/141676499-f475abe0-06ea-482c-a9ab-173a4d9bd7f4.png)
 
 3.gtkwave modulename.vcd in my case => gtkwave mux2x1.vcd
 
