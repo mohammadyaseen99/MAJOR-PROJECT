@@ -7,12 +7,6 @@ This repository is about my B.E. final year Major Project.
 So here, I've shown how to use Iverilog and Gtkwave with VScode as an IDE to verify and simulate verilog modules.
 As we all know, iverilog and gtkwave are opensource EDA tools that can only be run from a command prompt.To make things easier, I'm using vscode, which provides a compact view for dealing with Opensource tools.
 
-Please install the following before proceeding:
-
-1.icarus verilog (download link: https://bleyer.org/icarus/ for Windows).
-
-2.VScode download link - https://code.visualstudio.com/download (also extentions i.Verilog-HDL/SystemVerilog/Bluespec SystemVerilog and ii.Graphviz Preview).
-
 **We're ready to begin**
 
 **Step-1**
