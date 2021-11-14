@@ -61,8 +61,7 @@ COMMANDS
 ![image](https://user-images.githubusercontent.com/70074468/141676367-fbd1da68-515f-43ca-a75f-75cc6c4cc485.png)
 
 you will be able to see resut in terminal as well as a new file with .vcd extention which is further use for generating waveforms
-
-![10](https://user-images.githubusercontent.com/84916459/140510036-911b9117-8b3f-4de1-b936-024555bd18d5.png)
+![image](https://user-images.githubusercontent.com/70074468/141676409-7e4d4e78-4093-4d26-bc56-502ba3902ca7.png)
 
 **STEP-7** :-for generating waveforms we are using gtkwave EDA Tool for waveform representation. use the following command for opening .vcd file in gtkwave
 
