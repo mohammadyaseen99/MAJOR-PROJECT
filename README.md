@@ -53,7 +53,7 @@ COMMANDS
 
 1.iverilog modulename testbenchname (in my case => iverilog .\mux2x1.v .\tb_mux.v) then press enter.
 
-![8](https://user-images.githubusercontent.com/84916459/140509961-2b7a47a7-1de9-4afe-995e-a53781446b73.png)
+![image](https://user-images.githubusercontent.com/70074468/141676295-c46bfa27-1349-4c20-b17a-49ce9065660e.png)
 
 **STEP-6**
 
