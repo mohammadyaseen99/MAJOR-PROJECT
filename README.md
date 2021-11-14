@@ -142,12 +142,6 @@ we are done with synthesys now we need to download or write the synthesys file i
 
 ![29](https://user-images.githubusercontent.com/84916459/140510820-fc4a2b09-958d-4758-8b5e-a5b80d455925.png)
 
-**Step-10**
-
-now we can exit from yosys tool for that simply type "exit" and hit enter button.
-
-![31](https://user-images.githubusercontent.com/84916459/140510875-a38bd9a1-4b6b-4f2c-8e50-c0847b341bb6.png)
-
 Here report.txt file shows the statistical data of the design made 
 
 ![28](https://user-images.githubusercontent.com/84916459/140510939-8dc0145f-3c11-46cb-9353-b8a228876885.png)
