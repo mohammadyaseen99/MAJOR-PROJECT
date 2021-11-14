@@ -58,8 +58,7 @@ COMMANDS
 **STEP-6**
 
 2.vvp a.out
-
-![9](https://user-images.githubusercontent.com/84916459/140510003-6a29b7fa-88b8-4e18-9619-e6fb1a96bf32.png)
+![image](https://user-images.githubusercontent.com/70074468/141676367-fbd1da68-515f-43ca-a75f-75cc6c4cc485.png)
 
 you will be able to see resut in terminal as well as a new file with .vcd extention which is further use for generating waveforms
 
