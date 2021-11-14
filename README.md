@@ -91,7 +91,7 @@ In this synthesys process we are using SKY130 liberary File. all the required fi
 
 In terminal Type yosys to open yosys tool
 
-![19](https://user-images.githubusercontent.com/84916459/140510389-3364006e-3406-4f9e-9500-0e9f1ee369e6.png)
+![image](https://user-images.githubusercontent.com/70074468/141676580-0a8218a6-4d4e-456b-a742-6ba0e642bb31.png)
 
 **STEP-2**
 
